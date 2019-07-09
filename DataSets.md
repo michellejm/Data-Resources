@@ -38,6 +38,7 @@
 * [Nasa's Portal](https://data.nasa.gov/)
 
 ### Lists of Lists
+* [Information is Beautiful](https://informationisbeautiful.net/data/)
 * [kdnuggets list](https://www.kdnuggets.com/datasets/index.html)
 * [AWS Public Datasets](https://aws.amazon.com/datasets/)
 * [Data is Plural](https://tinyletter.com/data-is-plural/archive?page=1&recs=10&sort=desc&q=)

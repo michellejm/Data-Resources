@@ -5,6 +5,8 @@ Subway Commute?](https://www.nytimes.com/interactive/2019/07/08/upshot/nyc-subwa
 
 [Information is Beautiful: Fact Checking Netflix Documentaries](https://informationisbeautiful.net/visualizations/what-the-health-netflix-documentary-fact-checked-debunked/?utm_source=MAIN+Newsletter+-+Exclusive+first+looks+at+our+graphics+%26+interactives&utm_campaign=de3d7c4ae6-June2019_Editorial&utm_medium=email&utm_term=0_0f32d82422-de3d7c4ae6-68880069&mc_cid=de3d7c4ae6&mc_eid=19621b2368)
 
+[The Pudding: History of Vaccines Coverage](https://pudding.cool/2019/06/science_etc_2/)
+
 
 ### Lists of Visualizations
 [Alan Walker, Medium: Tableau](https://blog.mapbox.com/my-favorite-tableau-visualizations-d85e869200b4

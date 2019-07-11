@@ -9,4 +9,6 @@ Subway Commute?](https://www.nytimes.com/interactive/2019/07/08/upshot/nyc-subwa
 
 
 ### Lists of Visualizations
-[Alan Walker, Medium: Tableau](https://blog.mapbox.com/my-favorite-tableau-visualizations-d85e869200b4
+[Alan Walker, Medium: Tableau](https://blog.mapbox.com/my-favorite-tableau-visualizations-d85e869200b4)
+
+[The Pudding: Visual Essays](https://pudding.cool/)

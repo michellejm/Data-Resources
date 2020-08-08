@@ -3,11 +3,18 @@
 #### General Interdisciplinary Repositories
 
 [datadryad](https://datadryad.org/search)
-[data is plural](https://docs.google.com/spreadsheets/d/1wZhPLMCHKJvwOkP4juclhjFgqIY8fQFMemwKL2c64vk/edit#gid=0) Sign up for the weekly newsletter [here](https://tinyletter.com/data-is-plural)
+
+[data is plural](https://docs.google.com/spreadsheets/d/1wZhPLMCHKJvwOkP4juclhjFgqIY8fQFMemwKL2c64vk/edit#gid=0) Sign up for the weekly newsletter [here]
+(https://tinyletter.com/data-is-plural)
+
 [figshare](https://figshare.com/) Scroll to the bottom to search
+
 [harvard dataverse](https://dataverse.harvard.edu/)
+
 [mendeley data](https://data.mendeley.com/)
+
 [open science framework](https://osf.io/)
+
 [opportunity insights](https://opportunityinsights.org/data/)
 
 #### NYC

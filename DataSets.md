@@ -21,6 +21,7 @@
 * [NYC Taxis](http://www.nyc.gov/html/tlc/html/about/trip_record_data.shtml)
 * [Pluto](https://www1.nyc.gov/site/planning/data-maps/open-data/dwn-pluto-mappluto.page) Extensive land use data at the tax lot level
 * [streeteasy](https://streeteasy.com/blog/data-dashboard/?agg=Total&metric=Inventory&type=Sales&bedrooms=Any%20Bedrooms&property=Any%20Property%20Type&minDate=2010-01-01&maxDate=2020-07-01&area=Flatiron,Brooklyn%20Heights)
+* [weekly unemployment claims report nyc](https://www.labor.ny.gov/stats/weekly-ui-claims-report.shtm)
 
 
 #### Covid & Health

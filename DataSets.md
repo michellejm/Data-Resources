@@ -13,12 +13,14 @@
 
 #### NYC
 * [NYC Open Data](https://opendata.cityofnewyork.us/)
+* [CoreData](http://coredata.nyc/) Reconciled datasets from across multiple sources
 * [CapStat - Lawsuits against police](https://capstat.nyc/)
 * [NYPL Labs Menus](http://menus.nypl.org/data)
 * [NYPL Digital Collections](http://digitalcollections.nypl.org/)
 * [Citibike Ridership Data](https://www.citibikenyc.com/system-data)
 * [NYC Taxis](http://www.nyc.gov/html/tlc/html/about/trip_record_data.shtml)
-* [streeteasy](https://streeteasy.com/blog/data-dashboard/)
+* [Pluto](https://www1.nyc.gov/site/planning/data-maps/open-data/dwn-pluto-mappluto.page) Extensive land use data at the tax lot level
+* [streeteasy](https://streeteasy.com/blog/data-dashboard/?agg=Total&metric=Inventory&type=Sales&bedrooms=Any%20Bedrooms&property=Any%20Property%20Type&minDate=2010-01-01&maxDate=2020-07-01&area=Flatiron,Brooklyn%20Heights)
 
 
 #### Covid & Health
@@ -40,6 +42,9 @@
 * [Census data - American Fact Finder](http://factfinder.census.gov/faces/nav/jsf/pages/index.xhtml)
 * [Census Data - Historic (NHGIS)](https://www.nhgis.org/)*
 * [Census data - citysdk](https://uscensusbureau.github.io/citysdk/)
+* [Bureau of Economic Analysis](https://www.bea.gov/) Lots of geography sizes - economic indicators
+* [Bureau of Labor Statistics](https://www.bls.gov/data/)
+* [Election Data](http://www.electproject.org/home/voter-turnout) including demographics of voter turnout
 * [World Bank data catalog](http://datacatalog.worldbank.org/)
 * [Campaign Finance Data](http://www.fec.gov/finance/disclosure/ftpdet.shtml#a2015_2016)
 * [H1B](https://h1bsalary.online/)

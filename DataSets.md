@@ -13,7 +13,7 @@
 * [our world in data](https://ourworldindata.org/)
 
 #### Spatial Data
-* [USAID}(https://spatialdata.dhsprogram.com/home/)
+* [USAID](https://spatialdata.dhsprogram.com/home/)
 * [NHGIS](https://www.nhgis.org/)
 * [Awesome Public Datasets](https://github.com/awesomedata/awesome-public-datasets) list of mostly spatial datasets
 

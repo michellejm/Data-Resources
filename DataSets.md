@@ -1,5 +1,7 @@
 ## Data Repositories
 
+[Google's Dataset Search](https://datasetsearch.research.google.com/) Try it! 
+
 #### General Interdisciplinary Repositories
 * [datadryad](https://datadryad.org/search)
 * [data is plural](https://docs.google.com/spreadsheets/d/1wZhPLMCHKJvwOkP4juclhjFgqIY8fQFMemwKL2c64vk/edit#gid=0) Sign up for the weekly newsletter * [here](https://tinyletter.com/data-is-plural)
@@ -10,6 +12,10 @@
 * [opportunity insights](https://opportunityinsights.org/data/)
 * [our world in data](https://ourworldindata.org/)
 
+#### Spatial Data
+* [USAID}(https://spatialdata.dhsprogram.com/home/)
+* [NHGIS](https://www.nhgis.org/)
+* [Awesome Public Datasets](https://github.com/awesomedata/awesome-public-datasets) list of mostly spatial datasets
 
 #### NYC
 * [NYC Open Data](https://opendata.cityofnewyork.us/)
